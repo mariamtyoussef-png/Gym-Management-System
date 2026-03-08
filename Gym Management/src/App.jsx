@@ -3,7 +3,7 @@ import './App.css'
 
 function App() {
  
-  return (
+  return 
     <>
 <<<<<<< HEAD
       <h1>Gym Management System</h1>
